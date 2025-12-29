@@ -1,4 +1,4 @@
-# Azure IAM Incident Lab (Senior) — Terraform
+# Azure IAM Incident Lab — Terraform
 
 A production automation identity is being used across multiple environments and regions. After a routine access review, multiple teams report:
 - unexpected authorization success for actions outside the intended change window,
